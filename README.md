@@ -11,4 +11,5 @@ The colors are:
 Black: #000
 White: #fff
 Red: #de041c
+## Mockup Image:
 ![Screenshot](mock.jpg)
